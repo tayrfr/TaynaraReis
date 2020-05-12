@@ -1,0 +1,27 @@
+body {
+  background-image: url('https://casadasbateriasfogaca.com.br/wp-content/uploads/2014/11/wallpaper-olimpiadas.jpg');
+  font-family: Arial;
+  background-size: 1000px;
+}
+.menu {
+  background-color: white;
+}
+a {
+  text-decoration: none;
+  color: deeppink;
+}
+a:hover {
+  text-decoration: underline;
+}
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+.menu li {
+  list-style: none;
+}
+.site-subtitle,
+.site-title {
+  color: black;
+  text-align: center;
+}
